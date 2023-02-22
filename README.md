@@ -1,2 +1,2 @@
 # Java
-studying java
+study java
